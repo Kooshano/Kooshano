@@ -1,11 +1,19 @@
 <h1 align="center">Kooshan Maleki</h1>
-<p align="center"><b>Quantum Computing • Machine Learning • Hybrid Quantum-Classical Systems</b></p>
+<p align="center"><b>Undergraduate Researcher in Quantum Computing and Machine Learning</b></p>
+<p align="center">Hybrid Quantum-Classical Systems • QNN Optimization • NISQ-Aware Design</p>
+
+<p align="center">
+  <a href="https://kooshan.info">Website</a> •
+  <a href="https://github.com/Kooshano">GitHub</a> •
+  <a href="https://www.linkedin.com/in/Kooshan-Maleki">LinkedIn</a> •
+  <a href="mailto:Kooshan.m@nyu.edu">Email</a>
+</p>
 
 <p align="center">
   <a href="https://kooshan.info"><img src="https://img.shields.io/badge/Website-kooshan.info-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/Kooshano"><img src="https://img.shields.io/badge/GitHub-Kooshano-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/Kooshan-Maleki"><img src="https://img.shields.io/badge/LinkedIn-Kooshan%20Maleki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:Kooshan.m@nyu.edu"><img src="https://img.shields.io/badge/Email-Contact-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:Kooshan.m@nyu.edu"><img src="https://img.shields.io/badge/Email-Kooshan.m%40nyu.edu-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -15,7 +23,7 @@
 </p>
 
 ## About
-Senior Computer Engineering student at Amirkabir University of Technology (Top 5%, GPA 18.84/20), focused on quantum computing and machine learning research.
+Computer Engineering graduate from Amirkabir University of Technology, focused on quantum computing and machine learning research.
 
 Current directions:
 - Hybrid Quantum Neural Networks (QNNs)
