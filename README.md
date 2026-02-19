@@ -36,9 +36,9 @@ Current directions:
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,java,docker,opencv,git,github,vscode" alt="Tech stack" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit"/>
-  <img src="https://img.shields.io/badge/PennyLane-10B981?style=flat-square&logo=pennylane&logoColor=white" alt="PennyLane"/>
-  <img src="https://img.shields.io/badge/Cirq-3C4043?style=flat-square&logo=google&logoColor=white" alt="Cirq"/>
+  <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
+  <img src="https://img.shields.io/badge/-PennyLane-10B981?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/>
+  <img src="https://img.shields.io/badge/-Cirq-3C4043?style=for-the-badge&logo=google&logoColor=white" alt="Cirq"/>
 </p>
 
 ## Selected Repositories
