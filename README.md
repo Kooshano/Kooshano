@@ -1,64 +1,118 @@
 <h1 align="center">Kooshan Maleki</h1>
-<p align="center"><b>Undergraduate Researcher in Quantum Computing and Machine Learning</b></p>
-<p align="center">Hybrid Quantum-Classical Systems • QNN Optimization • NISQ-Aware Design</p>
 
 <p align="center">
-  <a href="https://kooshan.info">Website</a> •
-  <a href="https://github.com/Kooshano">GitHub</a> •
-  <a href="https://www.linkedin.com/in/Kooshan-Maleki">LinkedIn</a> •
-  <a href="mailto:Kooshan.m@nyu.edu">Email</a>
+  <strong>Quantum Computing & Machine Learning Researcher</strong><br>
+  <sub>Hybrid Quantum-Classical Systems · QNN Optimization · NISQ-Aware Design</sub>
 </p>
 
 <p align="center">
-  <a href="https://kooshan.info"><img src="https://img.shields.io/badge/Website-kooshan.info-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/Kooshano"><img src="https://img.shields.io/badge/GitHub-Kooshano-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/Kooshan-Maleki"><img src="https://img.shields.io/badge/LinkedIn-Kooshan%20Maleki-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:Kooshan.m@nyu.edu"><img src="https://img.shields.io/badge/Email-Kooshan.m%40nyu.edu-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://kooshan.info"><img src="https://img.shields.io/badge/kooshan.info-000?style=flat&logo=google-chrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/Kooshan-Maleki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:Kooshan.m@nyu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+  <a href="https://x.com/Kooshanoo"><img src="https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+</p>
+
+---
+
+Computer Engineering graduate from **Amirkabir University of Technology**. My research sits at the intersection of quantum computing and machine learning — designing hybrid architectures that are practical on today's noisy quantum hardware.
+
+**Currently working on:**&ensp;Hybrid QNNs&ensp;·&ensp;Quantum architecture search&ensp;·&ensp;Circuit cutting & resource-aware design&ensp;·&ensp;Learning-based acceleration of quantum workflows
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Kooshano/QNAS">QNAS</a></h4>
+      <p><strong>Quantum Neural Architecture Search</strong></p>
+      <p>Multi-objective NAS framework for hybrid quantum–classical networks. Uses NSGA-II to jointly optimize accuracy, circuit cost, and partitionability with Pareto-front analysis and checkpoint-based early prediction.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Pauli <sub>(coming soon)</sub></h4>
+      <p><strong>Multi-Scale Pauli CNN</strong></p>
+      <p>Pauli decomposition via deep learning with physics-informed constraints. Multi-scale CNN aligned with tensor-product structure, benchmarked against analytical methods.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Kooshano/HHL">HHL Quantum Linear Solver</a></h4>
+      <p><strong>Quantum Linear Systems</strong></p>
+      <p>End-to-end HHL algorithm pipeline with GPU-aware workflows and classical baselines for benchmarking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Kooshano/KAN">KAN</a></h4>
+      <p><strong>Kolmogorov–Arnold Networks</strong></p>
+      <p>Exploration and experiments with KAN architectures for function approximation and scientific computing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><strong>Quantum</strong></td>
+    <td align="center" width="140"><strong>ML / DL</strong></td>
+    <td align="center" width="140"><strong>Languages</strong></td>
+    <td align="center" width="140"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/PennyLane-10B981?style=for-the-badge&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Kooshano">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kooshano&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" height="160" alt="GitHub Stats"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-Quantum%20Machine%20Learning-1f6feb?style=for-the-badge" alt="Quantum ML"/>
-  <img src="https://img.shields.io/badge/Focus-Hybrid%20QNN%20Optimization-0969da?style=for-the-badge" alt="Hybrid QNN Optimization"/>
-  <img src="https://img.shields.io/badge/Role-Undergraduate%20Researcher-0a3069?style=for-the-badge" alt="Undergraduate Researcher"/>
+  <sub>Open to collaboration in quantum machine learning, QNN optimization, and hybrid algorithm design.</sub><br>
+  <sub>Reach me at <a href="mailto:Kooshan.m@nyu.edu">Kooshan.m@nyu.edu</a> · <a href="https://kooshan.info">kooshan.info</a></sub>
 </p>
-
-## About
-Computer Engineering graduate from Amirkabir University of Technology, focused on quantum computing and machine learning research.
-
-Current directions:
-- Hybrid Quantum Neural Networks (QNNs)
-- Quantum architecture optimization for NISQ hardware
-- Circuit cutting and resource-aware design
-- Learning-based acceleration of quantum workflows
-
-## Featured Projects
-
-| Project | Focus | Highlights |
-|---|---|---|
-| **QNAS: Quantum Neural Architecture Search** | Multi-objective NAS for hybrid QNNs | NSGA-II optimization over accuracy, circuit cost, and partitionability; Pareto-front analysis; checkpoint-based early prediction |
-| **Pauli: Multi-Scale Pauli CNN** | Pauli decomposition via deep learning | Physics-informed constraints; multi-scale CNN aligned with tensor-product structure; benchmarking against analytical methods |
-| **HHL Quantum Linear Solver** | Quantum linear systems | End-to-end HHL pipeline with GPU-aware workflows and classical baselines |
-
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,c,java,docker,opencv,git,github,vscode" alt="Tech stack" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit"/>
-  <img src="https://img.shields.io/badge/-PennyLane-10B981?style=for-the-badge&logo=pennylane&logoColor=white" alt="PennyLane"/>
-  <img src="https://img.shields.io/badge/-Cirq-3C4043?style=for-the-badge&logo=google&logoColor=white" alt="Cirq"/>
-</p>
-
-## Selected Repositories
-- `QNAS` (soon public)
-- `Pauli` (soon public)
-- [HHL](https://github.com/Kooshano/HHL)
-- [KAN](https://github.com/Kooshano/KAN)
-- [Kooshano.github.io](https://github.com/Kooshano/Kooshano.github.io)
-
-## Collaboration
-Open to collaboration in quantum machine learning, QNN optimization, and hybrid algorithm design.
-
-- Email: [Kooshan.m@nyu.edu](mailto:Kooshan.m@nyu.edu)
-- Website: [kooshan.info](https://kooshan.info)
-- LinkedIn: [Kooshan-Maleki](https://www.linkedin.com/in/Kooshan-Maleki)
