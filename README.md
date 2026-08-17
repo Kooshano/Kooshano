@@ -112,33 +112,6 @@ later that the circuit will not fit on anything real.
 
 ---
 
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-6b6e73?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-6b6e73?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-6b6e73?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-6b6e73?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Verilog-6b6e73?style=flat-square&logoColor=white">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Qiskit-6b6e73?style=flat-square&logo=qiskit&logoColor=white">
-  <img src="https://img.shields.io/badge/PennyLane-6b6e73?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Cirq-6b6e73?style=flat-square&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-6b6e73?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-6b6e73?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-6b6e73?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/pymoo-6b6e73?style=flat-square&logoColor=white">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Git-6b6e73?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-6b6e73?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-6b6e73?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-6b6e73?style=flat-square&logo=linux&logoColor=white">
-</p>
-
----
-
 <p align="center">
   <sub>Open to collaboration on quantum machine learning, QNN optimisation and hybrid algorithm design.</sub><br>
   <sub><a href="mailto:Kooshan.m@nyu.edu">Kooshan.m@nyu.edu</a> · <a href="https://kooshan.info">kooshan.info</a> · Leuven, Belgium</sub>
