@@ -68,11 +68,6 @@ later that the circuit will not fit on anything real.
       <p><strong>Quantum neural architecture search</strong></p>
       <p>Multi-objective NAS for hybrid quantum-classical networks, with Pareto-front analysis and
       checkpoint-based early stopping so the hopeless candidates stop burning simulator time.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6b6e73?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/PennyLane-6b6e73?style=flat-square&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-6b6e73?style=flat-square&logo=pytorch&logoColor=white">
-      </p>
     </td>
     <td width="50%" valign="top">
       <h4>Pauli <sub>(coming soon)</sub></h4>
@@ -80,10 +75,6 @@ later that the circuit will not fit on anything real.
       <p>Pauli decomposition by deep learning with physics-informed constraints. A multi-scale CNN
       aligned to the tensor-product structure, benchmarked against the analytical methods it hopes
       to beat.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6b6e73?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/PyTorch-6b6e73?style=flat-square&logo=pytorch&logoColor=white">
-      </p>
     </td>
   </tr>
   <tr>
@@ -92,20 +83,12 @@ later that the circuit will not fit on anything real.
       <p><strong>Quantum linear solver</strong></p>
       <p>End-to-end HHL pipeline with GPU-aware workflows, and the classical baselines that keep it
       honest. My bachelor thesis, in code form.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6b6e73?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Qiskit-6b6e73?style=flat-square&logo=qiskit&logoColor=white">
-      </p>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Kooshano/KAN">KAN</a></h4>
       <p><strong>Kolmogorov-Arnold networks</strong></p>
       <p>A from-scratch KAN with custom activations and hand-written backpropagation, built mostly
       to find out whether the hype survived contact with a debugger.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-6b6e73?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Jupyter-6b6e73?style=flat-square&logo=jupyter&logoColor=white">
-      </p>
     </td>
   </tr>
 </table>
