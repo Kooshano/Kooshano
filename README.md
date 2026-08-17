@@ -16,7 +16,7 @@
   <a href="https://kooshan.info"><img src="https://img.shields.io/badge/kooshan.info-1a1b1d?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=Y-WZ4wkAAAAJ"><img src="https://img.shields.io/badge/Scholar-1a1b1d?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.linkedin.com/in/Kooshan-Maleki"><img src="https://img.shields.io/badge/LinkedIn-1a1b1d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIxIDh2OGE1IDUgMCAwMS01IDVIOGE1IDUgMCAwMS01LTVWOGE1IDUgMCAwMTUtNWg4YTUgNSAwIDAxNSA1ek03IDE3di03Ii8+PHBhdGggZD0iTTExIDE3di0zLjI1TTExIDEwdjMuNzVtMCAwYzAtMy43NSA2LTMuNzUgNiAwVjE3TTcgNy4wMWwuMDEtLjAxMSIvPjwvc3ZnPg==" alt="LinkedIn"></a>
-  <a href="https://x.com/Kooshano"><img src="https://img.shields.io/badge/X-1a1b1d?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/Kooshanoo"><img src="https://img.shields.io/badge/X-1a1b1d?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:Kooshan.m@nyu.edu"><img src="https://img.shields.io/badge/Email-1a1b1d?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
